@@ -1,4 +1,4 @@
-# github-pages-workshop
+# Build Your Own Portfolio and Blog Site with GitHub Pages Workshop
 
 ```
 $ git clone <repo>
