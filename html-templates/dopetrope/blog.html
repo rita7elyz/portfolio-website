@@ -1,0 +1,165 @@
+<!DOCTYPE HTML>
+<!--
+	Dopetrope by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+<head>
+	<!-- start head include -->
+	{% include head.html %}
+	<!-- end head include -->
+</head>
+
+<body class="homepage is-preload">
+	<div id="page-wrapper">
+
+		<!-- Header -->
+		<!-- start header include -->
+		{% include header.html %}
+		<!-- end header include -->
+
+		<!-- Main -->
+		<section id="main">
+			<div class="container">
+				<div class="row">
+					<div class="col-12">
+
+						<!-- Blog -->
+						<section>
+							<header class="major">
+								<h2>{{page.title}}</h2>
+							</header>
+							<div class="row">
+								<!-- blog for loop starts here -->
+								<!-- blog box starts here -->
+								<div class="col-12 col-12-small">
+									<section class="box">
+										<a href="{{site.baseurl}}{{post.url}}" class="image featured"><img
+												src="{{site.baseurl}}{{post.main_image}}" alt="" /></a>
+										<header>
+											<h3>{{post.title}}</h3>
+											<p>Dec 01 2019 in {% for category in post.categories %}{{category}} {% endfor %}</p>
+										</header>
+										<p>{{post.subtitle}}</p>
+										<footer>
+											<ul class="actions">
+												<li><a href="{{site.baseurl}}{{post.url}}"
+														class="button icon solid fa-file-alt">Continue Reading</a></li>
+											</ul>
+										</footer>
+									</section>
+								</div>
+								<!-- blog box ends here -->
+								<!-- blog box starts here -->
+								<div class="col-6 col-12-small">
+									<section class="box">
+										<a href="{{site.baseurl}}{{post.url}}" class="image featured"><img
+												src="{{site.baseurl}}{{post.main_image}}" alt="" /></a>
+										<header>
+											<h3>{{post.title}}</h3>
+											<p>Dec 01 2019 in {% for category in post.categories %}{{category}} {% endfor %}</p>
+										</header>
+										<p>{{post.subtitle}}</p>
+										<footer>
+											<ul class="actions">
+												<li><a href="{{site.baseurl}}{{post.url}}"
+														class="button icon solid fa-file-alt">Continue Reading</a></li>
+											</ul>
+										</footer>
+									</section>
+								</div>
+								<!-- blog box ends here -->
+								<!-- blog box starts here -->
+								<div class="col-6 col-12-small">
+									<section class="box">
+										<a href="{{site.baseurl}}{{post.url}}" class="image featured"><img
+												src="{{site.baseurl}}{{post.main_image}}" alt="" /></a>
+										<header>
+											<h3>{{post.title}}</h3>
+											<p>Dec 01 2019 in {% for category in post.categories %}{{category}} {% endfor %}</p>
+										</header>
+										<p>{{post.subtitle}}</p>
+										<footer>
+											<ul class="actions">
+												<li><a href="{{site.baseurl}}{{post.url}}"
+														class="button icon solid fa-file-alt">Continue Reading</a></li>
+											</ul>
+										</footer>
+									</section>
+								</div>
+								<!-- blog box ends here -->
+								<!-- blog box starts here -->
+								<div class="col-4 col-12-small">
+									<section class="box">
+										<a href="{{site.baseurl}}{{post.url}}" class="image featured"><img
+												src="{{site.baseurl}}{{post.main_image}}" alt="" /></a>
+										<header>
+											<h3>{{post.title}}</h3>
+											<p>Dec 01 2019 in {% for category in post.categories %}{{category}} {% endfor %}</p>
+										</header>
+										<p>{{post.subtitle}}</p>
+										<footer>
+											<ul class="actions">
+												<li><a href="{{site.baseurl}}{{post.url}}"
+														class="button icon solid fa-file-alt">Continue Reading</a></li>
+											</ul>
+										</footer>
+									</section>
+								</div>
+								<!-- blog box ends here -->
+								<!-- blog box starts here -->
+								<div class="col-4 col-12-small">
+									<section class="box">
+										<a href="{{site.baseurl}}{{post.url}}" class="image featured"><img
+												src="{{site.baseurl}}{{post.main_image}}" alt="" /></a>
+										<header>
+											<h3>{{post.title}}</h3>
+											<p>Dec 01 2019 in {% for category in post.categories %}{{category}} {% endfor %}</p>
+										</header>
+										<p>{{post.subtitle}}</p>
+										<footer>
+											<ul class="actions">
+												<li><a href="{{site.baseurl}}{{post.url}}"
+														class="button icon solid fa-file-alt">Continue Reading</a></li>
+											</ul>
+										</footer>
+									</section>
+								</div>
+								<!-- blog box ends here -->
+								<!-- blog box starts here -->
+								<div class="col-4 col-12-small">
+									<section class="box">
+										<a href="{{site.baseurl}}{{post.url}}" class="image featured"><img
+												src="{{site.baseurl}}{{post.main_image}}" alt="" /></a>
+										<header>
+											<h3>{{post.title}}</h3>
+											<p>Dec 01 2019 in {% for category in post.categories %}{{category}} {% endfor %}</p>
+										</header>
+										<p>{{post.subtitle}}</p>
+										<footer>
+											<ul class="actions">
+												<li><a href="{{site.baseurl}}{{post.url}}"
+														class="button icon solid fa-file-alt">Continue Reading</a></li>
+											</ul>
+										</footer>
+									</section>
+								</div>
+								<!-- blog box ends here -->
+								<!-- blog for loop ends here -->
+							</div>
+						</section>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<!-- Footer -->
+		<!-- start footer include -->
+		{% include footer.html %}
+		<!-- end footer include -->
+	</div>
+</body>
+
+</html>

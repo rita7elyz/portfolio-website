@@ -1,0 +1,15 @@
+name: My Site
+owner: My Name
+
+baseurl: "/github-pages-workshop" # the base url of your site
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: /blog/:title
+
+collections:
+  projects:
+    output: true
+
+exclude:
+  - LICENSE
+  - README.md
+  - html-templates

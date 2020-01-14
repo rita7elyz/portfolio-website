@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TODO blog list</title>
+    </head>
+    <body>
+        <h1>TODO blog list</h1>
+        <ul>
+            {% for post in site.posts %}
+            <li><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a> {{ post.date | date: '%b %e, %Y' }} {% for category in post.categories %}{{category}} {% endfor %}</li>
+            {% endfor %}
+        </ul>
+    </body>
+</html>
