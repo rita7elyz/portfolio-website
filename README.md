@@ -1,12 +1,10 @@
 # github-pages-workshop
 
-TODO
-
 ```
 $ git clone <repo>
 $ cd github-pages-workshop
 $ bundle install
-$ jekyll serve --watch
+$ bundle exec jekyll serve --watch
 ```
 
-Then browse to `http://localhost:4000`.
+Then browse to `http://127.0.0.1:4000/github-pages-workshop/`.
