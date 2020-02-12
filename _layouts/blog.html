@@ -29,31 +29,32 @@
 				</div>
 				<div class="row">
 					<!-- blog for loop starts here -->
-                    {% for post in site.posts %}
-                    <!-- blog box starts here -->
-                    {% case forloop.index %}
-                    {% when 1 %}
-                    <div class="col-12 col-12-small">
-                        {% when 2 or 3 %}
-                        <div class="col-6 col-12-small">
-                            {% else %}
-                            <div class="col-4 col-12-small">
-                                {% endcase %}
+					{% for post in site.posts %}
+						
+					<!-- blog box starts here -->
+					{% case forloop.index %}
+					{% when 1 %}
+					<div class="col-12 col-12-small">
+					{% when 2 or 3 %}
+					<div class="col-6 col-12-small">
+					{% else %}
+					<div class="col-4 col-12-small">
+					{% endcase %}
 
-                    <section class="box feature">
+						<section class="box feature">
 							<a href="{{site.baseurl}}{{post.url}}" class="image featured"><img src="{{site.baseurl}}{{post.main_image}}"
 									alt="Project Image" /></a>
 							<div class="inner">
 								<header>
 									<h2>{{post.title}}</h2>
-									<em>{{post.date | date: '%b %e, %Y'}} in {% for category in post.categories %}{{category}} {% endfor %}</em>
+									<em>{{ post.date | date: '%b %e, %Y' }} in {% for category in post.categories %}{{category}} {% endfor %}</em>
 									<p>{{post.subtitle}}</p>
 								</header>
 							</div>
 						</section>
 					</div>
-                    <!-- blog box ends here -->
-                    {% endfor %}
+					<!-- blog box ends here -->
+					{% endfor %}
 					<!-- blog for loop ends here -->
 				</div>
 			</div>

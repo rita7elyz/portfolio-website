@@ -30,17 +30,18 @@
                 <div class="row">
                     <!-- project for loop starts here -->
                     {% for project in site.projects %}
-
-
+                        
                     <!-- project box starts here -->
                     <div class="col-4 col-12-medium">
                         <section class="box feature">
-                            <a href="{{site.baseurl}}{{project.url}}" class="image featured"><img src="{{site.baseurl}}{{project.main_image}}"
+                            <a href=""{{site.baseurl}}{{project.url}}" class="image featured"><img src={{site.baseurl}}{{project.main_image}}
                                     alt="Project Image" /></a>
                             <div class="inner">
                                 <header>
                                     <h2>{{project.title}}</h2>
-                                    <em>{% for category in project.categories %}{{category}} {% endfor %}</em>
+                                    <em>{% for category in
+                                        project.categories %}{{category}} {% endfor %}
+                                    </em>
                                     <p>{{project.subtitle}}</p>
                                 </header>
                             </div>
@@ -48,6 +49,7 @@
                     </div>
                     <!-- project box ends here -->
                     {% endfor %}
+                        
                     <!-- project for loop ends here -->
                 </div>
             </div>
@@ -60,4 +62,4 @@
     </div>
 </body>
 
-</html>
+</html> 
