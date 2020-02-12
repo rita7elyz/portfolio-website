@@ -27,7 +27,7 @@
                         <h2>{{page.title}}</h2>
                         <span class="image"><img src="{{site.baseurl}}{{page.main_image}}" class="image fit"
                                 alt="Main Image" /></span>
-                        <em>{{page.date | date: '%A %b %e, %Y'}} in {% for category in page.categories %}{{category}} {% endfor %}</em>
+                        <em>{{ page.date | date: '%A %b %e, %Y' }} in {% for category in page.categories %}{{category}} {% endfor %}</em>
                         <hr/>
                         {{content}}
                     </div>
