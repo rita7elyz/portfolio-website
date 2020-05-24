@@ -1,27 +1,31 @@
 ---
 layout: project
-title: Project 3
-subtitle: A hardware & microcontroller project.
+title: My Request App - Group Project
+subtitle: Song requester app for dueling piano bar.
 main_image: /assets/images/project3.jpg
-categories: [arduino, c, iot]
+categories: [angular, figma, material design]
 ---
-Project 3 saw me working with microcontrollers and a soldering iron!
+This project really stretched me to **grow** my **communication skills.**
+ 
+## Overview 
 
-Lorem ipsum dolor amet cray intelligentsia flannel vinyl migas, poke put a bird on it kinfolk. Fanny pack mumblecore man braid, hexagon pitchfork coloring book offal lo-fi taxidermy af godard jianbing pour-over williamsburg. Kinfolk offal snackwave pabst. Beard craft beer selvage celiac. Four loko post-ironic chambray etsy man bun. Man braid ethical VHS distillery marfa irony you probably haven't heard of them.
+The culmination of our work in SoftStack Factory's Program was a group project creating an application for a local dueling piano bar. Working on this project was incredibly unique because during this time, everything was moved to remote due to Covid-19. There are many tools online for remote collaboration and this opened the door for us to fully utilize them in ways we wouldn't have had we been in class side by side. 
 
-## Hard Coding Hardware!
+My portion of the application built out the advertising component which allows the bar owner to upload advertising content and select how often these will display and for how long. The owner can create and save multiple campaigns and assign the content and frequency of ad display to each.
 
-Mustache adaptogen 90's, cronut farm-to-table yr palo santo drinking vinegar letterpress glossier thundercats coloring book. 
+My teammates' contribution takes that input and has it display in between showing a list of upcoming songs that the piano players will play. 
 
-1. Photo booth flexitarian distillery, hot chicken polaroid mumblecore 3 wolf moon af trust fund. 
-2. Godard tote bag plaid flannel williamsburg iceland. Woke street art small batch subway tile. 
-3. Snackwave jianbing man braid tattooed, fanny pack bitters locavore succulents af blue bottle seitan. 
-4. Try-hard glossier neutra four loko pok pok.
+I really enjoyed this project because it forced me to reach out often and communicate very frequently to make up for the lack of physical proximity to my team. It also allowed me a great opportunity to take pride in a detailed contribution that was a necessary part of the whole while working under a deadline. It was enjoyable to think of what a business owner would want and create my contribution around that. 
 
-Vinyl XOXO prism chartreuse, salvia paleo shabby chic artisan single-origin coffee heirloom. Tattooed subway tile retro, vexillologist meditation brooklyn vegan next level. Forage fashion axe pitchfork raw denim master cleanse swag. Taxidermy echo park copper mug fixie pitchfork pop-up fashion axe. Meditation chartreuse asymmetrical irony photo booth.
 
-## Coding in C
+## Key Concepts Learned:
+* Angular
+* Figma
+* Material Design
 
-Thundercats semiotics *edison bulb* you probably haven't heard of them. Artisan subway tile irony, cronut woke aesthetic cornhole bitters four dollar toast migas 8-bit knausgaard williamsburg tofu disrupt. Roof party keytar vice, neutra church-key cardigan prism sustainable. Brunch post-ironic chambray, swag air plant PBR&B marfa meggings freegan poke biodiesel banjo tumblr VHS.
+## Key TakeAways
+1. Team projects are most effective when there is clear and frequent communication.
+2. The client is the most important player in this and the design should reflect that.
 
-Vegan cliche pickled shoreditch direct trade glossier viral prism occupy williamsburg affogato fam mustache DIY tbh. Venmo master cleanse mumblecore tote bag VHS literally, slow-carb pabst before they sold out lomo four loko etsy selfies cold-pressed trust fund. Swag readymade mlkshk umami cray tacos. Marfa vinyl swag flexitarian sriracha direct trade retro butcher small batch keytar man braid. Pour-over retro mumblecore schlitz unicorn.
+
+I really enjoyed building this application because it was the first experience I had working with a team on something big that stretched over several months. 
