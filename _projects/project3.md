@@ -6,7 +6,11 @@ main_image: /assets/images/project1.jpg
 categories: [ionic, cordova]
 ---
 This project really stretched me to **sharpen** my **problem solving techniques.**
- 
+
+GitHub: 
+
+**https://github.com/rita7elyz/capture-and-store-app**
+
 ## Overview 
 
 I was excited when I learned we would have the opportunity to create an app using Ionic which would allow me to use the local functionality of a phone. When I began this project to practice using Ionic and Cordova, I originally started it as an app to take photos and store them. However, after an update to the Ionic version, the Cordova plugin no longer worked and it appeared no one else online was able to use the same plugin without some Python experience. Needless to say I was frustrated. I felt as though a significant amount of my time had been wasted on an app that no longer worked. 

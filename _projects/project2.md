@@ -7,6 +7,12 @@ categories: [angular, mongoDB, clarity]
 ---
 Through this project, I was able to exercise my **angular skills and backend set up.**
  
+GitHub: 
+
+**https://github.com/rita7elyz/movie-night-front**
+
+**https://github.com/rita7elyz/movie-night-back**
+
 ## Overview 
 
 This project was our final for the MEAN Stack course through SoftStack Factory but my work on it stretched long beyond our course. This application allows a user to create a profile which can be used to log into the app in the future. Once logged into, the user can search for movies by keyword and add them to their favorites. The user can then access their list of favorite movies and remove them if desired. 
