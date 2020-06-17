@@ -1,26 +1,31 @@
 ---
 layout: project
-title: Speaking App - Ionic
-subtitle: Mobile-based speaking app.
-main_image: /assets/images/project1.jpg
-categories: [ionic, cordova]
+title: My Request App - Group Project
+subtitle: Song requester app for dueling piano bar.
+main_image: /assets/images/project3.jpg
+categories: [angular, figma, material design]
 ---
-This project really stretched me to **sharpen** my **problem solving techniques.**
+This project really stretched me to **grow** my **communication skills.**
  
 ## Overview 
 
-I was excited when I learned we would have the opportunity to create an app using Ionic which would allow me to use the local functionality of a phone. When I began this project to practice using Ionic and Cordova, I originally started it as an app to take photos and store them. However, after an update to the Ionic version, the Cordova plugin no longer worked and it appeared no one else online was able to use the same plugin without some Python experience. Needless to say I was frustrated. I felt as though a significant amount of my time had been wasted on an app that no longer worked. 
+The culmination of our work in SoftStack Factory's Program was a group project creating an application for a local dueling piano bar. Working on this project was incredibly unique because during this time, everything was moved to remote due to Covid-19. There are many tools online for remote collaboration and this opened the door for us to fully utilize them in ways we wouldn't have had we been in class side by side. 
 
-However, as I am learning, rolling with new changes is just part of the landscape of coding. Deciding to make the best of it, I took my premade app and converted it to be a text-speaking app instead. I had already set up the backend to authenticate users and modified the front-end to take user text input and speak it along with having several premade phrases that the app would speak. The two most valuable concepts that were reinforced for me while working on this project was that you can never have too much practice setting up a working backend and that you must always be ready to adapt. 
+My portion of the application built out the advertising component which allows the bar owner to upload advertising content and select how often these will display and for how long. The owner can create and save multiple campaigns and assign the content and frequency of ad display to each.
+
+My teammates' contribution takes that input and has it display in between showing a list of upcoming songs that the piano players will play. 
+
+I really enjoyed this project because it forced me to reach out often and communicate very frequently to make up for the lack of physical proximity to my team. It also allowed me a great opportunity to take pride in a detailed contribution that was a necessary part of the whole while working under a deadline. It was enjoyable to think of what a business owner would want and create my contribution around that. 
+
 
 ## Key Concepts Learned:
-* Ionic
-* Cordova Plugins
-* Backend set up
+* Angular
+* Figma
+* Material Design
 
 ## Key TakeAways
-1. Google is your best friend
-2. Git Commit often, in case things don’t work later on
-3. Adapt quickly 
+1. Team projects are most effective when there is clear and frequent communication.
+2. The client is the most important player in this and the design should reflect that.
 
-I’m grateful to have tackled this app at the exact time that I did. Had I not encountered any obstacles, there wouldn’t have been so great an opportunity to continue to build my problem-solving muscle which I feel will better serve me in the future.
+
+I really enjoyed building this application because it was the first experience I had working with a team on something big that stretched over several months. 
