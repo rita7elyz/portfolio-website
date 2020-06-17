@@ -2,14 +2,29 @@
 layout: home
 main_image: /assets/images/home.jpg
 ---
-**Welcome to my new website...** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer egestas lacus dui, at tristique nunc eleifend vitae. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse ut justo dignissim, cursus nunc eget, bibendum risus. In sapien enim, feugiat sed enim sit amet, pretium ornare erat. Vestibulum dapibus interdum mi sed dapibus. Sed venenatis egestas eros ut euismod. In ullamcorper a purus non congue. In pharetra ante sodales augue blandit finibus. Etiam quis elit mattis, cursus est eget, hendrerit diam. Nullam faucibus in risus quis aliquam. Morbi consectetur erat sit amet tortor efficitur, sit amet efficitur dolor aliquet. Duis condimentum nisl quis libero posuere, a aliquam nisi aliquet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque viverra diam et massa malesuada finibus. Integer nulla elit, mattis vitae tempus ut, sollicitudin quis ante.
+## Welcome to my website...
 
-## Some Stuff
+Feel free to poke around and get to know me better. You can find some of my current projects here along with my blog! My contact information is below.
+ 
+## My latest projects
+1. Group Project: Song requester app for dueling piano bar.
+2. Movie database searching app.
+3. Mobile-based speaking app.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer egestas lacus dui, at tristique nunc eleifend vitae. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse ut justo dignissim, cursus nunc eget, bibendum risus. In sapien enim, feugiat sed enim sit amet, pretium ornare erat. Vestibulum dapibus interdum mi sed dapibus. Sed venenatis egestas eros ut euismod. In ullamcorper a purus non congue. In pharetra ante sodales augue blandit finibus. Etiam quis elit mattis, cursus est eget, hendrerit diam. Nullam faucibus in risus quis aliquam. Morbi consectetur erat sit amet tortor efficitur, sit amet efficitur dolor aliquet. Duis condimentum nisl quis libero posuere, a aliquam nisi aliquet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque viverra diam et massa malesuada finibus. Integer nulla elit, mattis vitae tempus ut, sollicitudin quis ante.
+## My technologies
+* AngularJS
+* Ionic
+* MongoDB
+* Git
+* NodeJS
+* Visual Studio
+* Figma
+* ES6
+* Loopback
+* JS/TS/HTML/CSS
+* Clarity Design
+* Material Design
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer egestas lacus dui, at tristique nunc eleifend vitae. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse ut justo dignissim, cursus nunc eget, bibendum risus. In sapien enim, feugiat sed enim sit amet, pretium ornare erat. Vestibulum dapibus interdum mi sed dapibus. Sed venenatis egestas eros ut euismod. In ullamcorper a purus non congue. In pharetra ante sodales augue blandit finibus. Etiam quis elit mattis, cursus est eget, hendrerit diam. Nullam faucibus in risus quis aliquam. Morbi consectetur erat sit amet tortor efficitur, sit amet efficitur dolor aliquet. Duis condimentum nisl quis libero posuere, a aliquam nisi aliquet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque viverra diam et massa malesuada finibus. Integer nulla elit, mattis vitae tempus ut, sollicitudin quis ante.
 
-## Some More Stuff
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer egestas lacus dui, at tristique nunc eleifend vitae. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse ut justo dignissim, cursus nunc eget, bibendum risus. In sapien enim, feugiat sed enim sit amet, pretium ornare erat. Vestibulum dapibus interdum mi sed dapibus. Sed venenatis egestas eros ut euismod. In ullamcorper a purus non congue. In pharetra ante sodales augue blandit finibus. Etiam quis elit mattis, cursus est eget, hendrerit diam. Nullam faucibus in risus quis aliquam. Morbi consectetur erat sit amet tortor efficitur, sit amet efficitur dolor aliquet. Duis condimentum nisl quis libero posuere, a aliquam nisi aliquet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque viverra diam et massa malesuada finibus. Integer nulla elit, mattis vitae tempus ut, sollicitudin quis ante.
+ 
