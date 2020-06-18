@@ -4,7 +4,6 @@ owner: RaeMarie Donaldson
 baseurl: "/my-portfolio-website/" # the base url of your site
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /blog/:title
-root: /
 
 collections:
   projects:
